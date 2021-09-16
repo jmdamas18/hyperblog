@@ -1,0 +1,5 @@
+Este es un archivo de ejemplo.
+
+Del curso de Platzi.
+
+Estado: Inicial
