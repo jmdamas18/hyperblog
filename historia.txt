@@ -2,8 +2,4 @@ Este es un archivo de ejemplo.
 
 Del curso de Platzi.
 
-Estado: Editado
-
-1er commit
-
-Esto es una modificación y una correccion del texto.
+Estado: Inicial modificado para pruebas de git
