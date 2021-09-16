@@ -6,4 +6,4 @@ Estado: Editado
 
 1er commit
 
-Esto es una modificación
+Esto es una modificación y una correccion del texto.
